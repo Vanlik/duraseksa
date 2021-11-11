@@ -1,0 +1,247 @@
+{
+	"_id" : ObjectId("60949e400e6d953e6c546bd2"),
+	"name" : "ពលរដ្ឋវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:56:16.694+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(-9),
+	"updatedAt" : ISODate("2021-05-30T20:31:59.588+07:00"),
+	"thumbnail_image" : "609bb0d8764931920e60c83b"
+},
+{
+	"_id" : ObjectId("60949ede0e6d953e6c54710d"),
+	"name" : "ប្រវត្តិវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:58:54.714+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-06-20T17:50:01.324+07:00"),
+	"thumbnail_image" : "60b393ba201c1865a76ab717"
+},
+{
+	"_id" : ObjectId("60949ee60e6d953e6c547180"),
+	"name" : "ភាសាអង់គ្លេស",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:02.018+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(-9),
+	"updatedAt" : ISODate("2021-05-30T20:32:06.645+07:00"),
+	"thumbnail_image" : "609bb0c058404120e0381d1f"
+},
+{
+	"_id" : ObjectId("60949eea0e6d953e6c54719f"),
+	"name" : "រូបវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:06.963+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-06-20T17:49:54.252+07:00"),
+	"thumbnail_image" : "60b393c550981f655f282d62"
+},
+{
+	"_id" : ObjectId("60949ef00e6d953e6c5471cd"),
+	"name" : "ភូមិវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:12.961+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(-9),
+	"updatedAt" : ISODate("2021-05-30T20:32:04.534+07:00"),
+	"thumbnail_image" : "609bb0adb0a428210f5df4ee"
+},
+{
+	"_id" : ObjectId("60949f000e6d953e6c547238"),
+	"name" : "ជីវវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:28.506+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540"),
+		ObjectId("5ef580924e0f101fc039453f")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-06-20T17:49:42.112+07:00"),
+	"thumbnail_image" : "60b393a89607ba65596bc0c1"
+},
+{
+	"_id" : ObjectId("60949f070e6d953e6c54725f"),
+	"name" : "គីមីវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:35.098+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-06-20T17:49:24.477+07:00"),
+	"thumbnail_image" : "60b2119650981f655f282d5c"
+},
+{
+	"_id" : ObjectId("60949f150e6d953e6c5472b8"),
+	"name" : "ផែនដីវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:49.232+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(-9),
+	"updatedAt" : ISODate("2021-05-30T20:32:02.267+07:00"),
+	"thumbnail_image" : "609bb094b4292520f5a3c3da"
+},
+{
+	"_id" : ObjectId("60949f1d0e6d953e6c5472ef"),
+	"name" : "ភាសាខ្មែរ",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T08:59:57.879+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-05-30T20:30:48.770+07:00"),
+	"thumbnail_image" : "60b39388f9db2367ffa7cab7"
+},
+{
+	"_id" : ObjectId("60949f240e6d953e6c54731c"),
+	"name" : "គណិតវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-07T09:00:04.279+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f"),
+		ObjectId("5ef5807f4e0f101fc039453e"),
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-05-30T20:30:06.689+07:00"),
+	"thumbnail_image" : "60b3935ed4220d60162db930"
+},
+{
+	"_id" : ObjectId("6098ca41dfd028e10694b805"),
+	"name" : "គណិតវិទ្យា (កម្រិតខ្ពស់)",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-10T12:53:05.616+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-05-31T22:53:34.251+07:00"),
+	"thumbnail_image" : "60b5067e37fe2467bc0c796a"
+},
+{
+	"_id" : ObjectId("60b39536cbbec8f8079c1c41"),
+	"name" : "ភូមិវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-05-30T20:37:58.183+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540"),
+		ObjectId("5ef580924e0f101fc039453f")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-10T22:30:10.753+07:00"),
+	"thumbnail_image" : "60b39536b84b7b67b6b10b15"
+},
+{
+	"_id" : ObjectId("612cee7fcbbec8f8075c35ea"),
+	"name" : "សិក្សាសង្គម-វិទ្យាសាស្ត្",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T21:43:11.977+07:00"),
+	"level_types" : [
+		ObjectId("5ef5807f4e0f101fc039453e")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:00:23.998+07:00"),
+	"thumbnail_image" : "613c5407f2311fd0362cd8c3"
+},
+{
+	"_id" : ObjectId("612ceed9cbbec8f8075c377c"),
+	"name" : "វិទ្យាសាស្ត្រ",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T21:44:41.676+07:00"),
+	"level_types" : [
+		ObjectId("5ef5807f4e0f101fc039453e")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:00:35.590+07:00"),
+	"thumbnail_image" : "613c5413f6ea77d026a69135"
+},
+{
+	"_id" : ObjectId("612ceee1cbbec8f8075c37b2"),
+	"name" : "សិក្សាសង្គម",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T21:44:49.667+07:00"),
+	"level_types" : [
+		ObjectId("5ef5807f4e0f101fc039453e")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:00:41.687+07:00"),
+	"thumbnail_image" : "613c54197bef75cb0b649fea"
+},
+{
+	"_id" : ObjectId("612cf139cbbec8f8075c433b"),
+	"name" : "សីលធម៌-ពលរដ្ឋវិជ្ជា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T21:54:49.756+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540"),
+		ObjectId("5ef580924e0f101fc039453f")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T15:18:42.114+07:00"),
+	"thumbnail_image" : "613c66627632b4d012fdb0e5"
+},
+{
+	"_id" : ObjectId("612cf263cbbec8f8075c48c8"),
+	"name" : "ផែនដីនិងបរិស្ថានវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T21:59:47.335+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:00:53.970+07:00"),
+	"thumbnail_image" : "613c54259a4da3cafe4b2575"
+},
+{
+	"_id" : ObjectId("612cf271cbbec8f8075c4907"),
+	"name" : "ផែនដីវិទ្យា",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-08-30T22:00:01.059+07:00"),
+	"level_types" : [
+		ObjectId("5ef580924e0f101fc039453f")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:01:02.477+07:00"),
+	"thumbnail_image" : "613c542e641997cb21520cb4"
+},
+{
+	"_id" : ObjectId("6134d5122e80ef52a0054c46"),
+	"name" : "បច្ចេកវិទ្យាព័ត៌មាន",
+	"__v" : NumberInt(0),
+	"createdAt" : ISODate("2021-09-05T21:32:50.695+07:00"),
+	"level_types" : [
+		ObjectId("5ef5809b4e0f101fc0394540"),
+		ObjectId("5ef580924e0f101fc039453f")
+	],
+	"status" : NumberInt(1),
+	"updatedAt" : ISODate("2021-09-11T14:30:15.090+07:00"),
+	"thumbnail_image" : "613c5b0783ebffd6c22f9c17"
+},

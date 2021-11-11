@@ -1,0 +1,399 @@
+{
+	"_id" : ObjectId("613041e4f030fa615fd840fa"),
+	"status" : NumberInt(1),
+	"name" : "វប្បធម៌ និងវិចិត្រសិល្បៈ",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:15:48.280+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:15:48.280+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303fcdf030fa615fd840ef"),
+	"status" : NumberInt(1),
+	"name" : "ចិត្តចលភាព",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:06:53.290+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:06:53.290+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303dfbf030fa615fd840df"),
+	"status" : NumberInt(1),
+	"name" : "សិក្ខាសាលាពិសេស",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303b8cf030fa615fd840da"),
+	"createdAt" : ISODate("2021-09-02T09:59:07.881+07:00"),
+	"updatedAt" : ISODate("2021-09-02T09:59:07.881+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303e28f030fa615fd840e0"),
+	"status" : NumberInt(1),
+	"name" : "សហគមន៍វិជ្ជាជីវៈគ្រូ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303b8cf030fa615fd840da"),
+	"createdAt" : ISODate("2021-09-02T09:59:52.298+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:02:04.033+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613040e7f030fa615fd840f8"),
+	"status" : NumberInt(1),
+	"name" : "ការអប់រំវិទ្យាសាស្រ្តបច្ចេកវិទ្យា",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:11:35.641+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:11:35.641+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("6130422ef030fa615fd840fc"),
+	"status" : NumberInt(1),
+	"name" : "ភាសាអង់គ្លេស",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:17:02.550+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:17:02.550+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("6130431df030fa615fd84103"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវិធីសមមូលមធ្យមសិក្សាបឋមភូមិ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304281f030fa615fd840fe"),
+	"createdAt" : ISODate("2021-09-02T10:21:01.934+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:21:01.934+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304aeef030fa615fd84120"),
+	"status" : NumberInt(1),
+	"name" : "ការស្ម័គ្រចិត្តដើម្បីសហគមន៍",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304a3ff030fa615fd8411a"),
+	"createdAt" : ISODate("2021-09-02T10:54:22.223+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:54:22.223+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303ef1f030fa615fd840e2"),
+	"status" : NumberInt(1),
+	"name" : "បទបាឋកថាពិសេសតាមប្រធានបទ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303b8cf030fa615fd840da"),
+	"createdAt" : ISODate("2021-09-02T10:03:13.717+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:03:13.717+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303f67f030fa615fd840e9"),
+	"status" : NumberInt(1),
+	"name" : "ក្សេត្រសាស្រ្ត",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303f27f030fa615fd840e3"),
+	"createdAt" : ISODate("2021-09-02T10:05:11.599+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:05:11.599+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303fe2f030fa615fd840f1"),
+	"status" : NumberInt(1),
+	"name" : "បុរេគណិត",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303fb5f030fa615fd840eb"),
+	"createdAt" : ISODate("2021-09-02T10:07:14.202+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:07:14.202+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613042f3f030fa615fd84102"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវិធីសមមូលអប់រំកម្រិតមូលដ្ឋាន (BEEP)",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304281f030fa615fd840fe"),
+	"createdAt" : ISODate("2021-09-02T10:20:19.298+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:20:19.298+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613046c0f030fa615fd84114"),
+	"status" : NumberInt(1),
+	"name" : "មាតិកានៃការសិក្សាតាមការបង្កើតគម្រោង",
+	"description" : "subcategory",
+	"categories" : ObjectId("6130435cf030fa615fd84104"),
+	"createdAt" : ISODate("2021-09-02T10:36:32.452+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:36:32.452+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304b08f030fa615fd84121"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវិធីអាជីវកម្មខ្មុំ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304a3ff030fa615fd8411a"),
+	"createdAt" : ISODate("2021-09-02T10:54:48.010+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:54:48.010+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("612ddf76f20fbd4b4c2ef742"),
+	"status" : NumberInt(1),
+	"name" : "វីដេអូនៃការបង្រៀន",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-08-31T14:51:18.540+07:00"),
+	"updatedAt" : ISODate("2021-08-31T14:51:18.540+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304719f030fa615fd84115"),
+	"status" : NumberInt(1),
+	"name" : "ធនាគារសំណួរតាមពីរ៉ាមីឌនៃពុទ្ធិសម្បទា",
+	"description" : "subcategory",
+	"categories" : ObjectId("6130435cf030fa615fd84104"),
+	"createdAt" : ISODate("2021-09-02T10:38:01.993+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:38:01.993+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304cd8f030fa615fd84128"),
+	"status" : NumberInt(1),
+	"name" : "វីដេអូសំណួរ-ចម្លើយ",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:02:32.096+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:02:32.096+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303dcff030fa615fd840de"),
+	"status" : NumberInt(1),
+	"name" : "ការអភិវឌ្ឍគន្លងវិជ្ជាជីវៈ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303b8cf030fa615fd840da"),
+	"createdAt" : ISODate("2021-09-02T09:58:23.061+07:00"),
+	"updatedAt" : ISODate("2021-09-02T09:58:23.061+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304753f030fa615fd84117"),
+	"status" : NumberInt(1),
+	"name" : "ការរៀបចំបង្កើតសៀវភៅសិក្សាថ្មី",
+	"description" : "subcategory",
+	"categories" : ObjectId("6130435cf030fa615fd84104"),
+	"createdAt" : ISODate("2021-09-02T10:38:59.062+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:38:59.062+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303f74f030fa615fd840ea"),
+	"status" : NumberInt(1),
+	"name" : "បសុវប្បកម្ម",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303f27f030fa615fd840e3"),
+	"createdAt" : ISODate("2021-09-02T10:05:24.417+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:05:24.417+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613041fbf030fa615fd840fb"),
+	"status" : NumberInt(1),
+	"name" : "ការអប់រំសុភាវធម៌",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:16:11.284+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:16:11.284+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304d21f030fa615fd8412c"),
+	"status" : NumberInt(1),
+	"name" : "មេរៀនតាមសៀវភៅគោល",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:03:45.417+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:03:45.417+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303fedf030fa615fd840f2"),
+	"status" : NumberInt(1),
+	"name" : "វិទ្យាសាស្រ្ត",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303fb5f030fa615fd840eb"),
+	"createdAt" : ISODate("2021-09-02T10:07:25.460+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:07:25.460+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613086f5c2254f40f0a6cca8"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវិធីអក្ខរកម្មនិងកម្មវិធីសមមូលបឋមសិក្សា",
+	"categories" : ObjectId("61304281f030fa615fd840fe"),
+	"createdAt" : ISODate("2021-09-02T15:10:29.720+07:00"),
+	"updatedAt" : ISODate("2021-09-02T15:10:29.720+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303ffdf030fa615fd840f3"),
+	"status" : NumberInt(1),
+	"name" : "សិក្សាសង្គម",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303fb5f030fa615fd840eb"),
+	"createdAt" : ISODate("2021-09-02T10:07:41.758+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:07:41.758+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304ab7f030fa615fd8411f"),
+	"status" : NumberInt(1),
+	"name" : "ជំរំយុវជនសកល",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304a3ff030fa615fd8411a"),
+	"createdAt" : ISODate("2021-09-02T10:53:27.150+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:53:27.150+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304d0af030fa615fd8412b"),
+	"status" : NumberInt(1),
+	"name" : "សំណួរ-ចម្លើយ",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:03:22.064+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:03:22.064+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303f40f030fa615fd840e7"),
+	"status" : NumberInt(1),
+	"name" : "អគ្គិសនី",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303f27f030fa615fd840e3"),
+	"createdAt" : ISODate("2021-09-02T10:04:32.932+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:04:32.932+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613040c4f030fa615fd840f7"),
+	"status" : NumberInt(1),
+	"name" : "ការនិទានរឿង",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:11:00.907+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:11:00.907+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304cf3f030fa615fd8412a"),
+	"status" : NumberInt(1),
+	"name" : "សន្លឹកកិច្ចការមេរៀន",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:02:59.885+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:02:59.885+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303fd7f030fa615fd840f0"),
+	"status" : NumberInt(1),
+	"name" : "ភាសាខ្មែរ",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303fb5f030fa615fd840eb"),
+	"createdAt" : ISODate("2021-09-02T10:07:03.485+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:07:03.485+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304a81f030fa615fd8411d"),
+	"status" : NumberInt(1),
+	"name" : "ការជជែកដេញដោលយុវជន",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304a3ff030fa615fd8411a"),
+	"createdAt" : ISODate("2021-09-02T10:52:33.984+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:52:33.984+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304bd4f030fa615fd84124"),
+	"status" : NumberInt(1),
+	"name" : "ការបង្រៀនសង្ខេបនិងបញ្ញត្តិ",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T10:58:12.538+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:01:44.999+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("613040fcf030fa615fd840f9"),
+	"status" : NumberInt(1),
+	"name" : "ការអង្កេតធម្មជាតិនិងសង្គម",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:11:56.407+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:11:56.407+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304239f030fa615fd840fd"),
+	"status" : NumberInt(1),
+	"name" : "ភាសាបារាំង",
+	"description" : "subcategory",
+	"categories" : ObjectId("613040a1f030fa615fd840f4"),
+	"createdAt" : ISODate("2021-09-02T10:17:13.721+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:17:13.721+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304735f030fa615fd84116"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវិធីបណ្តុះបណ្តាលសិស្សពូកែ",
+	"description" : "subcategory",
+	"categories" : ObjectId("6130435cf030fa615fd84104"),
+	"createdAt" : ISODate("2021-09-02T10:38:29.852+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:38:29.852+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304cc2f030fa615fd84127"),
+	"status" : NumberInt(1),
+	"name" : "វីដេអូសកម្មភាពក្នុងថ្នាក់",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:02:10.186+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:02:10.186+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303f4cf030fa615fd840e8"),
+	"status" : NumberInt(1),
+	"name" : "អេទ្បិចត្រូនិច",
+	"description" : "subcategory",
+	"categories" : ObjectId("61303f27f030fa615fd840e3"),
+	"createdAt" : ISODate("2021-09-02T10:04:44.258+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:04:44.258+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304a9ef030fa615fd8411e"),
+	"status" : NumberInt(1),
+	"name" : "កម្មវីធីយុវជន២១",
+	"description" : "subcategory",
+	"categories" : ObjectId("61304a3ff030fa615fd8411a"),
+	"createdAt" : ISODate("2021-09-02T10:53:02.266+07:00"),
+	"updatedAt" : ISODate("2021-09-02T10:53:02.266+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304ce3f030fa615fd84129"),
+	"status" : NumberInt(1),
+	"name" : "សង្ខេបមេរៀន",
+	"description" : "subcategory",
+	"categories" : ObjectId("6127ad3621fd3e19383466f7"),
+	"createdAt" : ISODate("2021-09-02T11:02:43.620+07:00"),
+	"updatedAt" : ISODate("2021-09-02T11:02:43.620+07:00"),
+	"__v" : NumberInt(0)
+},

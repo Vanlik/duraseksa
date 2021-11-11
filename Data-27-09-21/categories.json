@@ -1,0 +1,80 @@
+{
+	"_id" : ObjectId("613040a1f030fa615fd840f4"),
+	"status" : NumberInt(1),
+	"name" : "ការអប់រំកុមារតូច",
+	"description" : "category ",
+	"thumbnail_image" : "61309d395517636ab3825682",
+	"createdAt" : ISODate("2021-09-02T10:10:25.238+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:45:29.117+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303b8cf030fa615fd840da"),
+	"status" : NumberInt(1),
+	"name" : "ការបណ្តុះបណ្តាលគ្រូ",
+	"description" : "category ",
+	"thumbnail_image" : "61309daa5517636ab382568e",
+	"createdAt" : ISODate("2021-09-02T09:48:44.175+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:47:22.989+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("6130435cf030fa615fd84104"),
+	"status" : NumberInt(1),
+	"name" : "មាតិកាឌីជីថលពិសេស",
+	"description" : "category ",
+	"thumbnail_image" : "61309cd25517636ab3825676",
+	"createdAt" : ISODate("2021-09-02T10:22:04.365+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:43:46.039+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304281f030fa615fd840fe"),
+	"status" : NumberInt(1),
+	"name" : "ការអប់រំក្រៅប្រព័ន្ធ",
+	"description" : "category ",
+	"thumbnail_image" : "61309d0f5517636ab382567e",
+	"createdAt" : ISODate("2021-09-02T10:18:25.610+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:44:47.489+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303fb5f030fa615fd840eb"),
+	"status" : NumberInt(1),
+	"name" : "កុមារតូច",
+	"description" : "category ",
+	"thumbnail_image" : "61309d665517636ab3825686",
+	"createdAt" : ISODate("2021-09-02T10:06:29.703+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:46:14.105+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61303f27f030fa615fd840e3"),
+	"status" : NumberInt(1),
+	"name" : "ការអប់រំបច្ចេកទេស",
+	"description" : "category ",
+	"thumbnail_image" : "61309d7f5517636ab382568a",
+	"createdAt" : ISODate("2021-09-02T10:04:07.799+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:46:40.001+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("61304a3ff030fa615fd8411a"),
+	"status" : NumberInt(1),
+	"name" : "ការអភិវឌ្ឍយុវជន",
+	"description" : "category ",
+	"thumbnail_image" : "61309ca15517636ab382566f",
+	"createdAt" : ISODate("2021-09-02T10:51:27.210+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:42:57.820+07:00"),
+	"__v" : NumberInt(0)
+},
+{
+	"_id" : ObjectId("6127ad3621fd3e19383466f7"),
+	"status" : NumberInt(1),
+	"name" : "បឋមសិក្សា បឋមភូមិ ឬទុតិយភូមិ",
+	"description" : "category ",
+	"thumbnail_image" : "61309dce5517636ab3825692",
+	"createdAt" : ISODate("2021-08-26T22:03:20.295+07:00"),
+	"updatedAt" : ISODate("2021-09-02T16:47:58.552+07:00"),
+	"__v" : NumberInt(0)
+},
